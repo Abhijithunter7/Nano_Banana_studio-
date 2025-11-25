@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Studio",
+  "description": "A powerful AI image editor powered by Nano Banana. Features include image generation, upload support, background removal, angle changing, filters, general editing, and circle-to-add functionality.",
+  "requestFramePermissions": []
+}
