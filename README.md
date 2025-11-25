@@ -2,9 +2,6 @@
 
 A modern, powerful AI image editor powered by Google's **Gemini Nano Banana** model. This application provides a seamless interface for generating, editing, and transforming images using natural language prompts and intuitive tools.
 
-![Nano Banana Studio Dashboard](./docs/dashboard-preview.png)
-*(Replace with actual screenshot of the main dashboard)*
-
 ## ✨ Features
 
 ### 1. 🎨 AI Image Generation
@@ -38,9 +35,6 @@ Precisely add objects to specific areas of an image.
 3. Resize or move the circle to perfect the placement.
 4. Type what you want to add (e.g., "A red hat") and click **Generate Preview**.
 5. **Preview Workflow:** Decide to "Keep" or "Discard" the change before finalizing.
-
-![Circle Tool Demo](./docs/circle-tool-demo.png)
-*(Replace with screenshot of the circle tool in action)*
 
 ## 🚀 Getting Started
 
@@ -99,9 +93,6 @@ Precisely add objects to specific areas of an image.
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 Built with ❤️ using Gemini API
